@@ -1,0 +1,27 @@
+BOOTSTRAP
+
+Smartphone		Tablet			Telas Grandes		Super Grande
+col-1			col-sm-1		col-md-1			col-xs-1	
+col-2			col-sm-2		col-md-2			col-xs-2
+col-3			col-sm-3		col-md-3			col-xs-3
+...				...				...					...
+col-12			col-sm-12		col-md-12			col-xs-12
+
+conteiner : (meio q calcula) deixa margens em branco, 80% da tela
+container-fluid : (meio q calcula) ocupa 100% da  tela
+
+linhas = row
+---------------
+controles de texto
+
+alinhamento				cores					tamanho
+text-left 				text-primary (azul)		display-4
+text-right				text-success (verde)	display-3
+text-center				text-danger (vermelho)	display-2
+text-justify			text-warning (amarelo)
+(text-sm ou dm-left)	text-info (ciano)
+						text-secondary (cinza)
+------------------
+BACKGROUND
+
+bg-cor
